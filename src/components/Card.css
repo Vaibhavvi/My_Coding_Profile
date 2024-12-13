@@ -1,0 +1,12 @@
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(109, 92, 85);
+}
+.img{
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+}
